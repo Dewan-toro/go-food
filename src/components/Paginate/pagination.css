@@ -1,0 +1,9 @@
+/* pagination.css */
+.green-pagination .page-item.active .page-link {
+  background-color: #198754; 
+  border-color: #198754;
+}
+
+.green-pagination .page-link {
+  color: #198754; 
+}
